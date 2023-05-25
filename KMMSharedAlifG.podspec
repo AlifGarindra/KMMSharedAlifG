@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
     spec.name         = 'KMMSharedAlifG'
-    spec.version      = '1.0.0'
+    spec.version      = '1.0.1'
     spec.summary      = 'testing framework from cocoapod'
     spec.homepage     = 'https://github.com/AlifGarindra'
   spec.license      = { :type => 'MIT', :text => 'text' }
